@@ -1,26 +1,42 @@
 {
-    "posts":[
-        {
-            "id":"1",
-            "title":"Post One",
-            "body":"This is the post body",
-            "publishedAt":"10-01-2020"
-
-        },
-        {
-            "id":"2",
-            "title":"Post Two",
-            "body":"This is the post body",
-            "publishedAt":"11-01-2020"
-
-        },
-        {
-            "id":"3",
-            "title":"Post Three",
-            "body":"This is the post body",
-            "publishedAt":"05-01-2021"
-
-        }
-    ],
-    "users":[] 
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post One",
+      "body": "This is the post body",
+      "publishedAt": "10-01-2020"
+    },
+    {
+      "id": "2",
+      "title": "Post Two",
+      "body": "This is the post body",
+      "publishedAt": "11-01-2020"
+    },
+    {
+      "id": "3",
+      "title": "Post Three",
+      "body": "This is the post body",
+      "publishedAt": "05-01-2021"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Adam",
+      "email": "adam@test.com",
+      "iscooperation": "true"
+    },
+    {
+      "id": "2",
+      "name": "Hong",
+      "email": "hong@test.com",
+      "iscooperation": "false"
+    },
+    {
+      "name": "dony",
+      "email": "dony@test.com",
+      "iscooperation": "true",
+      "id": "kSEMggm"
+    }
+  ]
 }
